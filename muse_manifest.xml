@@ -1,0 +1,805 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fmcweekend.in" resolutions="1x" timestamp="1529749196126">
+  <folder name="css">
+    <file name="site_global.css" crc="3972140458"/>
+    <file name="master_b-master.css" crc="231190170" ref="contact-us:events:sponsor:main:register:pronites-and-talks"/>
+    <file name="nomq_preview_master_b-master.css" crc="38273388" ref="contact-us:events:sponsor:main:register:pronites-and-talks"/>
+    <file name="index.css" crc="3878457721" ref="index"/>
+    <file name="nomq_index.css" crc="532449522" ref="index"/>
+    <file name="contact-us.css" crc="3771112206" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="373644309" ref="contact-us"/>
+    <file name="events.css" crc="4162706535" ref="events"/>
+    <file name="nomq_events.css" crc="4228265205" ref="events"/>
+    <file name="sponsor.css" crc="67626644" ref="sponsor"/>
+    <file name="nomq_sponsor.css" crc="4172641699" ref="sponsor"/>
+    <file name="main.css" crc="410137684" ref="main"/>
+    <file name="nomq_main.css" crc="276436919" ref="main"/>
+    <file name="register.css" crc="420974452" ref="register"/>
+    <file name="nomq_register.css" crc="4116822620" ref="register"/>
+    <file name="pronites-and-talks.css" crc="3770266499" ref="pronites-and-talks"/>
+    <file name="nomq_pronites-and-talks.css" crc="85859873" ref="pronites-and-talks"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fibre-font.woff" crc="4262832280"/>
+    <file name="fibre-font.eot" crc="3934884299"/>
+    <file name="palanquin-regular.ttf.woff" crc="170561368"/>
+    <file name="palanquin-regular.ttf.eot" crc="3955643425"/>
+    <file name="nexafreeboldwebfont.woff" crc="252761172"/>
+    <file name="nexafreeboldwebfont.eot" crc="379521009"/>
+  </folder>
+  <folder name="assets">
+    <file name="preloader3.gif" crc="529684814" seo="true" mt="1527858893000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:main:events:pronites-and-talks:contact-us:register:sponsor"/>
+    <file name="museutils.js" crc="340535759" ref="index:main:events:pronites-and-talks:contact-us:register:sponsor"/>
+    <file name="whatinput.js" crc="86476730" ref="index:main:events:pronites-and-talks:contact-us:register:sponsor"/>
+    <file name="museconfig.js" crc="310584261" ref="index:main:events:pronites-and-talks:contact-us:register:sponsor"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:main:events:pronites-and-talks:contact-us:register:sponsor"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:main:events:pronites-and-talks:contact-us:register:sponsor"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:main:events:pronites-and-talks:contact-us:register:sponsor"/>
+    <file name="require.js" crc="7928878" ref="index:main:events:pronites-and-talks:contact-us:register:sponsor"/>
+    <file name="webpro.js" crc="4059564322" ref="main:contact-us:register"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="main:contact-us"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="main:contact-us"/>
+    <file name="touchswipe.js" crc="4075097462" ref="main:contact-us"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="main"/>
+    <file name="form_check.php" crc="4020933626" ref="register"/>
+    <file name="form_throttle.php" crc="4259590256" ref="register"/>
+    <file name="form_process.php" crc="37464564" ref="register"/>
+    <file name="form-u33952.php" crc="47946240" ref="register"/>
+  </folder>
+  <folder name="images">
+    <file name="cover-pic.jpg" crc="3975078591" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:main:events:pronites-and-talks:contact-us:register:sponsor"/>
+    <file name="poster-mobile.jpg" crc="3923851509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="219884546" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="3.jpg" crc="427955862" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="4.jpg" crc="452314771" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4090063729" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="main"/>
+    <file name="group 21.png" crc="203373804" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="website1.jpg" crc="3911393554" ref="main">
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="group 1.png" crc="3846046253" ref="main:events:pronites-and-talks:contact-us:register:sponsor">
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="group 2355x84.png" crc="3785102721" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="layer 0.png" crc="213740848" ref="main:events:pronites-and-talks:contact-us:register:sponsor">
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="insta.png" crc="4101034468" ref="main:events:pronites-and-talks:contact-us:register:sponsor">
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="social-fb.png" crc="3807782810" ref="main:events:pronites-and-talks:contact-us:register:sponsor">
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="group 2330x78.png" crc="475524975" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="group 21385x386.png" crc="203373804" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="group 21264x265.png" crc="203373804" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="website1-u53652-fr.jpg" crc="3902675367" ref="main"/>
+    <file name="website1-u53652-fr2.jpg" crc="3893656262" ref="main"/>
+    <file name="group 2221x52.png" crc="495557851" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="group 21173x174.png" crc="4037663791" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="group 2-u91420-fr.png" crc="278394161" ref="main"/>
+    <file name="website1-u53652-fr3.jpg" crc="401138427" ref="main"/>
+    <file name="group 2-u91420-fr2.png" crc="470880506" ref="main"/>
+    <file name="website1-u53652-fr4.jpg" crc="108618215" ref="main"/>
+    <file name="group 2214x51.png" crc="3987339686" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="event 1psd.jpg" crc="196316388" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="event 1psd-crop-u85480.jpg" crc="3862032611" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="event 1psd-crop-u854802.jpg" crc="3795761705" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="events-960.jpg" crc="4117230930" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="asset 2parliament-logo-u65720-fr.png" crc="4247235153" ref="events"/>
+    <file name="asset 3parliament-logo-u66493-fr.png" crc="4268507044" ref="events"/>
+    <file name="contact us backgroundasset 1parliament-logo-u66511-fr.png" crc="145063578" ref="events"/>
+    <file name="events-960598x837.jpg" crc="4117230930" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="asset 2parliament-logo-u65720-fr2.png" crc="489041280" ref="events"/>
+    <file name="asset 3parliament-logo-u66493-fr2.png" crc="4288700204" ref="events"/>
+    <file name="contact us backgroundasset 1parliament-logo-u66511-fr2.png" crc="4283291094" ref="events"/>
+    <file name="event-540.jpg" crc="3762940368" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="asset 2parliament-logo-u65720-fr3.png" crc="3942126140" ref="events"/>
+    <file name="asset 3parliament-logo-u66493-fr3.png" crc="3858456060" ref="events"/>
+    <file name="contact us backgroundasset 1parliament-logo-u66511-fr3.png" crc="3996823950" ref="events"/>
+    <file name="event-540335x824.jpg" crc="3762940368" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="asset 2parliament-logo-u65720-fr4.png" crc="176500141" ref="events"/>
+    <file name="asset 3parliament-logo-u66493-fr4.png" crc="3936458681" ref="events"/>
+    <file name="contact us backgroundasset 1parliament-logo-u66511-fr4.png" crc="269133996" ref="events"/>
+    <file name="contact us backgroundmesa de trabajo 1 copia.png" crc="456842663" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u35173.jpg" crc="4188954967" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="twitter-icon.png" crc="3843948398" ref="contact-us">
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@STEVEBURNS"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@JOHNSMITH"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+      <caption webpage="contact-us" alt="@MARISSALOWE"/>
+    </file>
+    <file name="img02.jpg" crc="4205418132" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u35188.jpg" crc="4229654724" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u77479.jpg" crc="4229654724" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u42301.jpg" crc="4229654724" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u351732.jpg" crc="4188954967" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u351882.jpg" crc="4229654724" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u774792.jpg" crc="4229654724" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u423012.jpg" crc="4229654724" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u351733.jpg" crc="3825039719" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u351883.jpg" crc="4162356743" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u774793.jpg" crc="4162356743" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u423013.jpg" crc="4162356743" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u351734.jpg" crc="97165635" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u42394.jpg" crc="97165635" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u77322.jpg" crc="97165635" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u351884.jpg" crc="4142664862" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u35840.jpg" crc="4142664862" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u35992.jpg" crc="4142664862" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u36208.jpg" crc="4142664862" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u35918.jpg" crc="4142664862" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u351735.jpg" crc="97165635" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u423942.jpg" crc="97165635" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u773222.jpg" crc="97165635" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u351885.jpg" crc="4142664862" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u358402.jpg" crc="4142664862" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u359922.jpg" crc="4142664862" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u362082.jpg" crc="4142664862" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u359182.jpg" crc="4142664862" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u79418.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u79351.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u79284.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u79217.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u79150.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u40660.jpg" crc="3806674576" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u40861.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u79619.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u794182.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u793512.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u792842.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u792172.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u791502.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u406602.jpg" crc="3806674576" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u408612.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img02-crop-u796192.jpg" crc="4133503625" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="autumn-bike.jpg" crc="269181424" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="main.jpg" crc="498732511" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="asset 12logo-3.png" crc="494786837" seo="true" ref="register">
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="asset 12logo-3313x289.png" crc="88610302" seo="true" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="asset 12logo-3269x248.png" crc="3929630840" seo="true" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="asset 12logo-3212x196.png" crc="96448459" seo="true" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="main-u36608-fr.jpg" crc="351299404" ref="register"/>
+    <file name="asset 12logo-3158x146.png" crc="462811470" seo="true" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="group 2264x62.png" crc="485322122" seo="true" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="main-u36608-fr2.jpg" crc="39294319" ref="register"/>
+    <file name="asset 12logo-3133x122.png" crc="284747646" seo="true" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="main-u36608-fr3.jpg" crc="74535355" ref="register"/>
+    <file name="asset 12logo-384x78.png" crc="155740144" seo="true" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="main-u36608-fr4.jpg" crc="3991895508" ref="register"/>
+    <file name="asset 12logo-374x69.png" crc="3765120516" seo="true" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="9e980467696707e848d04f383f231e0d.jpg" crc="4198045955" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="2000px-nikon_logosvg.jpg" crc="482800252" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="84c0680cda26471d041d29b64d33971d57b1c205.jpg" crc="3760978393" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="8mr79udn_400x400.jpg" crc="4219329983" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="5534e63ac88b1.png" crc="3856898216" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="logo-default.png" crc="499469831" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="bangs.png" crc="4216780001" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="download.jpg" crc="3792629149" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="eten-ias-ksg-ballygunge-kolkata-ias-tutorials-2vqjt.jpg" crc="3968888508" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="img_20180415_213322.jpg" crc="4229626482" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="logo-9.jpg" crc="255012033" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="main-qimg-bc29233eb5aac4871fa009682ad813d3.jpg" crc="3829328707" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="mangofresh1.jpg" crc="34947186" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="penbound-horizontalv2_1.png" crc="274104447" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="screenshot_20180417_003516.jpg" crc="3941627456" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="unnamed.jpg" crc="4240922851" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="zomato-new-logo.jpg" crc="3797607418" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="logo.jpg" crc="3995457482" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="pizza_hut_logo_2.jpg" crc="3871565278" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="2000px-nikon_logosvg174x174.jpg" crc="195719137" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="8mr79udn_400x400179x179.jpg" crc="3784540702" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="logo203x154.jpg" crc="3995457482" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="pizza_hut_logo_2203x198.jpg" crc="13737882" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="2000px-nikon_logosvg147x147.jpg" crc="517567720" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="8mr79udn_400x400152x152.jpg" crc="4248810659" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="logo172x131.jpg" crc="460495207" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="pizza_hut_logo_2172x167.jpg" crc="4196639593" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="2000px-nikon_logosvg128x128.jpg" crc="380686059" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="8mr79udn_400x400132x132.jpg" crc="3830650234" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="logo150x114.jpg" crc="241622151" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="pizza_hut_logo_2150x146.jpg" crc="342707522" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="2000px-nikon_logosvg92x92.jpg" crc="3802468720" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="8mr79udn_400x40095x95.jpg" crc="3908146" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="logo107x81.jpg" crc="207921715" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="pizza_hut_logo_2107x104.jpg" crc="390253362" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="group 2253x60.png" crc="67900780" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="2000px-nikon_logosvg80x80.jpg" crc="4072146916" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="8mr79udn_400x40083x83.jpg" crc="4226570190" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="logo93x71.jpg" crc="4137631511" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="pizza_hut_logo_294x91.jpg" crc="108765966" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="2000px-nikon_logosvg79x79.jpg" crc="314725108" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="8mr79udn_400x40082x82.jpg" crc="146008786" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="logo92x70.jpg" crc="64724622" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="pizza_hut_logo_293x90.jpg" crc="3891679503" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="2000px-nikon_logosvg62x62.jpg" crc="189575323" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="8mr79udn_400x40064x64.jpg" crc="4237776187" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="logo72x55.jpg" crc="507110388" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+    <file name="pizza_hut_logo_272x70.jpg" crc="4059693385" seo="true" ref="sponsor">
+      <caption webpage="sponsor" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3936146866" seo="true" mt="1528958855194" redirect="true"/>
+  <file name="main.html" crc="4275933886" seo="true" mt="1529748750445" redirect="true"/>
+  <file name="events.html" crc="40341754" seo="true" mt="1529748673441" redirect="true"/>
+  <file name="pronites-and-talks.html" crc="4028353701" seo="true" mt="1529748673441" redirect="true"/>
+  <file name="contact-us.html" crc="355819570" seo="true" mt="1529748673441" redirect="true"/>
+  <file name="register.html" crc="3974134832" seo="true" mt="1529748673441" redirect="true"/>
+  <file name="sponsor.html" crc="4212524021" seo="true" mt="1529748673441" redirect="true"/>
+</manifest>
