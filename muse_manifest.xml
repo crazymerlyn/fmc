@@ -1,22 +1,22 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fmcweekend.in" resolutions="1x" timestamp="1529749196126">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fmcweekend.in" resolutions="1x" timestamp="1528959164621">
   <folder name="css">
     <file name="site_global.css" crc="3972140458"/>
-    <file name="master_b-master.css" crc="231190170" ref="contact-us:events:sponsor:main:register:pronites-and-talks"/>
-    <file name="nomq_preview_master_b-master.css" crc="38273388" ref="contact-us:events:sponsor:main:register:pronites-and-talks"/>
-    <file name="index.css" crc="3878457721" ref="index"/>
-    <file name="nomq_index.css" crc="532449522" ref="index"/>
-    <file name="contact-us.css" crc="3771112206" ref="contact-us"/>
-    <file name="nomq_contact-us.css" crc="373644309" ref="contact-us"/>
-    <file name="events.css" crc="4162706535" ref="events"/>
-    <file name="nomq_events.css" crc="4228265205" ref="events"/>
-    <file name="sponsor.css" crc="67626644" ref="sponsor"/>
+    <file name="master_b-master.css" crc="3927322812" ref="sponsor:pronites-and-talks:contact-us:main:register:events"/>
+    <file name="nomq_preview_master_b-master.css" crc="182408344" ref="sponsor:pronites-and-talks:contact-us:main:register:events"/>
+    <file name="sponsor.css" crc="4194356561" ref="sponsor"/>
     <file name="nomq_sponsor.css" crc="4172641699" ref="sponsor"/>
-    <file name="main.css" crc="410137684" ref="main"/>
-    <file name="nomq_main.css" crc="276436919" ref="main"/>
-    <file name="register.css" crc="420974452" ref="register"/>
-    <file name="nomq_register.css" crc="4116822620" ref="register"/>
-    <file name="pronites-and-talks.css" crc="3770266499" ref="pronites-and-talks"/>
+    <file name="pronites-and-talks.css" crc="3957496062" ref="pronites-and-talks"/>
     <file name="nomq_pronites-and-talks.css" crc="85859873" ref="pronites-and-talks"/>
+    <file name="contact-us.css" crc="432570587" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="4174726321" ref="contact-us"/>
+    <file name="index.css" crc="4288932257" ref="index"/>
+    <file name="nomq_index.css" crc="3820923794" ref="index"/>
+    <file name="main.css" crc="318461274" ref="main"/>
+    <file name="nomq_main.css" crc="87141720" ref="main"/>
+    <file name="register.css" crc="3931563751" ref="register"/>
+    <file name="nomq_register.css" crc="4116822620" ref="register"/>
+    <file name="events.css" crc="3966755503" ref="events"/>
+    <file name="nomq_events.css" crc="4269266411" ref="events"/>
   </folder>
   <folder name="fonts">
     <file name="fibre-font.woff" crc="4262832280"/>
@@ -67,8 +67,10 @@
       <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
     </file>
     <file name="3.jpg" crc="427955862" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
@@ -89,8 +91,10 @@
       <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
     </file>
     <file name="1.jpg" crc="4090063729" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
@@ -107,11 +111,16 @@
       <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
     </file>
     <file name="website1.jpg" crc="3911393554" ref="main">
       <caption webpage="main" alt=""/>
     </file>
     <file name="group 1.png" crc="3846046253" ref="main:events:pronites-and-talks:contact-us:register:sponsor">
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
@@ -120,25 +129,24 @@
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
       <caption webpage="contact-us" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="pronites-and-talks" alt=""/>
-      <caption webpage="pronites-and-talks" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
+      <caption webpage="contact-us" alt=""/>
     </file>
     <file name="group 2355x84.png" crc="3785102721" seo="true" ref="main">
       <caption webpage="main" alt=""/>
@@ -146,6 +154,9 @@
       <caption webpage="main" alt=""/>
     </file>
     <file name="layer 0.png" crc="213740848" ref="main:events:pronites-and-talks:contact-us:register:sponsor">
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
@@ -154,27 +165,29 @@
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
       <caption webpage="contact-us" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="pronites-and-talks" alt=""/>
-      <caption webpage="pronites-and-talks" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
+      <caption webpage="contact-us" alt=""/>
     </file>
     <file name="insta.png" crc="4101034468" ref="main:events:pronites-and-talks:contact-us:register:sponsor">
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
@@ -183,27 +196,29 @@
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
       <caption webpage="contact-us" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="pronites-and-talks" alt=""/>
-      <caption webpage="pronites-and-talks" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
+      <caption webpage="contact-us" alt=""/>
     </file>
     <file name="social-fb.png" crc="3807782810" ref="main:events:pronites-and-talks:contact-us:register:sponsor">
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
@@ -212,27 +227,27 @@
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="pronites-and-talks" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="sponsor" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
       <caption webpage="contact-us" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="sponsor" alt=""/>
-      <caption webpage="pronites-and-talks" alt=""/>
-      <caption webpage="pronites-and-talks" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
+      <caption webpage="contact-us" alt=""/>
     </file>
     <file name="group 2330x78.png" crc="475524975" seo="true" ref="main">
+      <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
       <caption webpage="main" alt=""/>
@@ -261,34 +276,34 @@
     <file name="group 2214x51.png" crc="3987339686" seo="true" ref="main">
       <caption webpage="main" alt=""/>
     </file>
-    <file name="event 1psd.jpg" crc="196316388" seo="true" ref="events">
+    <file name="event 1psd.jpg" crc="384653195" seo="true" ref="events">
       <caption webpage="events" alt=""/>
     </file>
-    <file name="event 1psd-crop-u85480.jpg" crc="3862032611" seo="true" ref="events">
+    <file name="event 1psd-crop-u85480.jpg" crc="4154105876" seo="true" ref="events">
       <caption webpage="events" alt=""/>
     </file>
-    <file name="event 1psd-crop-u854802.jpg" crc="3795761705" seo="true" ref="events">
+    <file name="event 1psd-crop-u854802.jpg" crc="322353192" seo="true" ref="events">
       <caption webpage="events" alt=""/>
     </file>
-    <file name="events-960.jpg" crc="4117230930" seo="true" ref="events">
+    <file name="events-960.jpg" crc="155825234" seo="true" ref="events">
       <caption webpage="events" alt=""/>
     </file>
     <file name="asset 2parliament-logo-u65720-fr.png" crc="4247235153" ref="events"/>
     <file name="asset 3parliament-logo-u66493-fr.png" crc="4268507044" ref="events"/>
     <file name="contact us backgroundasset 1parliament-logo-u66511-fr.png" crc="145063578" ref="events"/>
-    <file name="events-960598x837.jpg" crc="4117230930" seo="true" ref="events">
+    <file name="events-960598x837.jpg" crc="155825234" seo="true" ref="events">
       <caption webpage="events" alt=""/>
     </file>
     <file name="asset 2parliament-logo-u65720-fr2.png" crc="489041280" ref="events"/>
     <file name="asset 3parliament-logo-u66493-fr2.png" crc="4288700204" ref="events"/>
     <file name="contact us backgroundasset 1parliament-logo-u66511-fr2.png" crc="4283291094" ref="events"/>
-    <file name="event-540.jpg" crc="3762940368" seo="true" ref="events">
+    <file name="event-540.jpg" crc="4228998720" seo="true" ref="events">
       <caption webpage="events" alt=""/>
     </file>
     <file name="asset 2parliament-logo-u65720-fr3.png" crc="3942126140" ref="events"/>
     <file name="asset 3parliament-logo-u66493-fr3.png" crc="3858456060" ref="events"/>
     <file name="contact us backgroundasset 1parliament-logo-u66511-fr3.png" crc="3996823950" ref="events"/>
-    <file name="event-540335x824.jpg" crc="3762940368" seo="true" ref="events">
+    <file name="event-540335x824.jpg" crc="4228998720" seo="true" ref="events">
       <caption webpage="events" alt=""/>
     </file>
     <file name="asset 2parliament-logo-u65720-fr4.png" crc="176500141" ref="events"/>
@@ -795,11 +810,11 @@
       <caption webpage="sponsor" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3936146866" seo="true" mt="1528958855194" redirect="true"/>
-  <file name="main.html" crc="4275933886" seo="true" mt="1529748750445" redirect="true"/>
-  <file name="events.html" crc="40341754" seo="true" mt="1529748673441" redirect="true"/>
-  <file name="pronites-and-talks.html" crc="4028353701" seo="true" mt="1529748673441" redirect="true"/>
-  <file name="contact-us.html" crc="355819570" seo="true" mt="1529748673441" redirect="true"/>
-  <file name="register.html" crc="3974134832" seo="true" mt="1529748673441" redirect="true"/>
-  <file name="sponsor.html" crc="4212524021" seo="true" mt="1529748673441" redirect="true"/>
+  <file name="index.html" crc="299748871" seo="true" mt="1528958855194" redirect="true"/>
+  <file name="main.html" crc="3881809916" seo="true" mt="1528959145577" redirect="true"/>
+  <file name="events.html" crc="3897226385" seo="true" mt="1528819583968" redirect="true"/>
+  <file name="pronites-and-talks.html" crc="138955172" seo="true" mt="1528819306106" redirect="true"/>
+  <file name="contact-us.html" crc="4209560999" seo="true" mt="1528958755996" redirect="true"/>
+  <file name="register.html" crc="46396670" seo="true" mt="1528959130454" redirect="true"/>
+  <file name="sponsor.html" crc="233199264" seo="true" mt="1528819306106" redirect="true"/>
 </manifest>
